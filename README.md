@@ -2,7 +2,7 @@
 
 <h2> Gerador dos números da MegaSena, Loto Fácil, Quina e LotoMania</h2>
 
-<img src="https://github.com/teonett/Password-Generator/blob/master/img/preview.png">
+<img src="https://github.com/teonett/Gerador-Numeros-Loteria/blob/master/img/preview.png">
 
 <h4>Copyright (C) 2020 Jose Teotonio (teonett@gmail.com)</h4>
 <p>
